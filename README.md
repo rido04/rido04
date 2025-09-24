@@ -1,5 +1,5 @@
 # About Me:
-Hey there!, My name is Muhammad Ridho Febrian, a junior programmer and a student at Universitas Muhammadiyah Tangerang, majoring in Information Technology. I'm passionate about coding, learning new technologies, and solving problems through programming, enjoy explore my profile!
+Hey there!, My name is Muhammad Ridho Febrian, a junior programmer and a student at Universitas Muhammadiyah Tangerang, majoring in Information Technology. I'm passionate about coding, learning new technologies, and solving problems through programming, enjoy exploring my profile!
 
 
 ## Socials:
